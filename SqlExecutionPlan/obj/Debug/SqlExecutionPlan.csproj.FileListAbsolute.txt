@@ -1,5 +1,0 @@
-c:\users\krappies\documents\visual studio 2010\Projects\SqlExecutionPlan\SqlExecutionPlan\bin\SqlExecutionPlan.dll
-c:\users\krappies\documents\visual studio 2010\Projects\SqlExecutionPlan\SqlExecutionPlan\bin\SqlExecutionPlan.pdb
-c:\users\krappies\documents\visual studio 2010\Projects\SqlExecutionPlan\SqlExecutionPlan\obj\Debug\ResolveAssemblyReference.cache
-c:\users\krappies\documents\visual studio 2010\Projects\SqlExecutionPlan\SqlExecutionPlan\obj\Debug\SqlExecutionPlan.dll
-c:\users\krappies\documents\visual studio 2010\Projects\SqlExecutionPlan\SqlExecutionPlan\obj\Debug\SqlExecutionPlan.pdb
