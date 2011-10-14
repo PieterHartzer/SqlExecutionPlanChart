@@ -1,5 +1,13 @@
+SqlExecutionPlanChart is a web application in a single web page that will display the execution plan for the specified query using Google Charts.  NO CHECKING IS DONE SO ONLY PASTE SELECT QUERIES AND NOT DELETE/DROP/UPDATE UNLESS YOU WANT THAT TO BE EXECUTED.  I therefore take no responsibility for what you do with this application.
+
+I hacked this together because we had a problem where our website's SQL was executed using a different execution plan to SQL Server Management Studio.
+
+To use this you will just need to update the .CS file with your connection string settings.  It is not in the web.config because it is meant as a temporary solution.
+
 In order to use this application you need to change the connection string settings in the Default.aspx.cs file.
 
-This is a prototype that I hacked together in a couple of hours and then thought that someone might find it useful.  The aim of the application is to get the SQL Execution Plan that is chosen for your query running through .NET (probably from your main applications folder)
+As I mentioned, this application was hacked together and I am not planning on supporting or developing it further in any way
 
 This app is copyleft.  Do as you like with it except take credit.
+
+Pieter Hartzer.
