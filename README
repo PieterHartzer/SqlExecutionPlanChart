@@ -1,0 +1,5 @@
+In order to use this application you need to change the connection string settings in the Default.aspx.cs file.
+
+This is a prototype that I hacked together in a couple of hours and then thought that someone might find it useful.  The aim of the application is to get the SQL Execution Plan that is chosen for your query running through .NET (probably from your main applications folder)
+
+This app is copyleft.  Do as you like with it except take credit.
